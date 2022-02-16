@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Frontend Development, React**
 
-- 📫 How to reach me **jonyahmed19@gmail.com**
+- 📫 How to reach me **jonywebdev19@gmail.com**
 
 - 📄 Know about my experiences [webdesignstall.com](webdesignstall.com)
 

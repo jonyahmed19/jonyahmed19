@@ -1,7 +1,7 @@
 <h1 align="center">Hello mate, I'm Sahidul Islam</h1>
 <h3 align="center">Frontend Developer | React</h3>
 
-- 👨‍💻 All of my projects are available at [https://webdesignstall.com/works](webdesignstall.com/works)
+- 👨‍💻 All of my projects are available at [https://webdesignstall.com/](webdesignstall.com/)
 
 - 💬 Ask me about **Frontend Development, React**
 

@@ -3,9 +3,9 @@
 
 - 👨‍💻 All of my projects are available at [https://webdesignstall.com/](webdesignstall.com/)
 
-- 💬 Ask me about **Frontend Development, React**
+- 💬 Ask me about **Full Stack Development, MERN**
 
-- 📫 How to reach me **jonywebdev19@gmail.com**
+- 📫 How to reach me **jonyahmed19@gmail.com**
 
 - 📄 Know about my experiences [https://webdesignstall.com](webdesignstall.com)
 

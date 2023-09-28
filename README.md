@@ -1,9 +1,9 @@
 <h1 align="center">Hello mate, I'm Sahidul Islam</h1>
-<h3 align="center">FullStack Developer | MERN</h3>
+<h3 align="center">Software Developer</h3>
 
 - 👨‍💻 All of my projects are available at [https://webdesignstall.com/](webdesignstall.com/)
 
-- 💬 Ask me about **Software Developer, MERN | Laravel | WordPress | Shopify**
+- 💬 Ask me about **Software Development, MERN | Laravel | WordPress | Shopify**
 
 - 📫 How to reach me **jonyahmed19@gmail.com**
 

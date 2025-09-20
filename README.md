@@ -1,5 +1,5 @@
 <h1 align="center">Hello mate, I'm Sahidul Islam</h1>
-<h3 align="center">Software Developer</h3>
+<h3 align="center">Tech Lead</h3>
 
 - 👨‍💻 All of my projects are available at [https://webdesignstall.com/](webdesignstall.com/)
 

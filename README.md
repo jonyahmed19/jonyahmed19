@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://webdesignstall.com/](webdesignstall.com/)
 
-- 💬 Ask me about **Software Development, MERN | Laravel | WordPress | Shopify**
+- 💬 Ask me about **Software Development, MERN | Laravel | **
 
 - 📫 How to reach me **jonyahmed19@gmail.com**
 
